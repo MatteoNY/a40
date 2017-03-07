@@ -44,3 +44,6 @@ Thumbs.db
 **/*.ngfactory.ts
 **/*.css.ts
 **/*.css.shim.ts
+
+# Don't check in secret files
+*secret.js
