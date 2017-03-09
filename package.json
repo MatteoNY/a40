@@ -9,7 +9,8 @@
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
-        "server": "json-server --watch server/api/db.json"
+        "server": "json-server --watch server/api/db.json",
+        "ls": "live-server dist --port=8080"
     },
     "private": true,
     "dependencies": {
